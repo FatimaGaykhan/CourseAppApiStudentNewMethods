@@ -1,0 +1,103 @@
+﻿<Properties StartupConfiguration="{A332891D-F4DC-4A71-9424-83A321FAF1C6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/CourseAppApi/Service/Services/StudentService.cs" relfile="Service/Services/StudentService.cs" line="170" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/Services/StudentService.cs">
+    <Files>
+      <File FileName="Service/Services/StudentService.cs" Line="190" Column="34" />
+      <File FileName="Repository/Repositories/Interfaces/ITeacherRepository.cs" />
+      <File FileName="Repository/Repositories/Interfaces/IStudentRepository.cs" />
+      <File FileName="Repository/Repositories/TeacherRepository.cs" />
+      <File FileName="Repository/Repositories/StudentRepository.cs" />
+      <File FileName="Repository/Repositories/Interfaces/IGroupTeacherRepository.cs" />
+      <File FileName="Repository/Repositories/GroupTeacherRepository.cs" />
+      <File FileName="Service/Services/Interfaces/ITeacherService.cs" />
+      <File FileName="Service/Services/Interfaces/IStudentService.cs" Line="16" Column="24" />
+      <File FileName="Service/Services/TeacherService.cs" />
+      <File FileName="Service/DependencyInjection.cs" />
+      <File FileName="CourseAppApi/Controllers/Admin/TeacherController.cs" />
+      <File FileName="Service/DTOs/Admin/Teachers/TeacherDto.cs" />
+      <File FileName="Service/DTOs/Admin/Teachers/TeacherCreateDto.cs" />
+      <File FileName="Domain/Entities/Teacher.cs" />
+      <File FileName="Service/DTOs/Admin/Students/StudentDto.cs" />
+      <File FileName="Service/DTOs/Admin/Students/StudentCreateDto.cs" />
+      <File FileName="Service/Helpers/MappingProfile.cs" />
+      <File FileName="Domain/Entities/Student.cs" />
+      <File FileName="Service/DTOs/Admin/Rooms/RoomEditDto.cs" />
+      <File FileName="Service/Services/RoomService.cs" />
+      <File FileName="CourseAppApi/Controllers/Admin/StudentController.cs" Line="100" Column="41" />
+      <File FileName="Service/Services/Interfaces/IGroupService.cs" />
+      <File FileName="Service/Services/GroupService.cs" />
+      <File FileName="CourseAppApi/Controllers/Admin/GroupController.cs" />
+      <File FileName="CourseAppApi/Controllers/Admin/EducationController.cs" />
+      <File FileName="CourseAppApi/Controllers/Admin/RoomController.cs" />
+      <File FileName="Service/DTOs/Admin/Teachers/TeacherDetailDto.cs" />
+      <File FileName="Service/DTOs/Admin/Groups/GroupDetailDto.cs" />
+      <File FileName="Service/DTOs/Admin/Teachers/GroupTeacherDto.cs" />
+      <File FileName="Service/DTOs/Admin/Groups/GroupStudentDto.cs" />
+      <File FileName="Service/DTOs/Admin/Students/StudentDetailDto.cs" />
+      <File FileName="Service/DTOs/Admin/Students/StudentGroupDto.cs" />
+      <File FileName="Service/DTOs/Admin/Teachers/TeacherEditDto.cs" />
+      <File FileName="Service/DTOs/Admin/Students/StudentSearchByNameOrSurnameDto.cs" />
+      <File FileName="Service/Services/Interfaces/IRoomService.cs" />
+      <File FileName="Repository/Repositories/Interfaces/IRoomRepository.cs" />
+      <File FileName="Repository/Repositories/RoomRepository.cs" />
+      <File FileName="Service/DTOs/Admin/Groups/GroupCreateDto.cs" />
+      <File FileName="Domain/Entities/Group.cs" />
+      <File FileName="Service/Services/EducationService.cs" />
+      <File FileName="Service/DTOs/Admin/Groups/GroupEditDto.cs" />
+      <File FileName="CourseAppApi/appsettings.Development.json" />
+      <File FileName="CourseAppApi/Program.cs" Line="28" Column="1" />
+      <File FileName="CourseAppApi/Middlewares/ExceptionHandlingMiddleware.cs" />
+      <File FileName="Repository/Repositories/Interfaces/IGroupRepository.cs" />
+      <File FileName="Repository/Repositories/BaseRepository.cs" Line="80" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAppApi" expanded="True">
+            <Node name="CourseAppApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Admin" expanded="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Common" expanded="True" />
+              <Node name="Configurations" expanded="True" />
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Groups" expanded="True" />
+                  <Node name="Rooms" expanded="True" />
+                  <Node name="Students" expanded="True" />
+                  <Node name="Teachers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="StudentService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CourseAppApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
